@@ -73,8 +73,9 @@ end
 
     def using_delete(instructors, no_offense_steven)
   instructors.delete(no_offense_steven)
+
 end
-end
+
 
 def using_delete_at (famous_robots,deleted_robots) 
     famous_robots = ["Johnny 5", "R2D2", "Robocop"]
